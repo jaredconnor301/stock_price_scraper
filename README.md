@@ -1,6 +1,7 @@
 # Web scraper to access market prices from Yahoo finance
 
-Data source: Yahoo Finance Goal: Run fundamental analysis on public stock data to understand potential investments
+Data source: Yahoo Finance 
+Goal: Run fundamental analysis on public stock data to understand potential investments
 
 Necessary Modules:
 - Utilizing built in urllib
